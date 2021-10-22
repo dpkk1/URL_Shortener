@@ -4,7 +4,7 @@ Steps to setup the project:
 
 1. Fork the Project
 2. Use git bash to clone the project from the forked repository.
-3. use command: git clone https://github.com/<username>/URL_Shortener.git
+3. use command: git clone https://github.com/github_username/URL_Shortener.git
 4. After cloning the project, run the following command:
    a) cd URL_Shortener
    b) code .
